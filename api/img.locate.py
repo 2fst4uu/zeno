@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://www.youtube.com/ " # Link to the webpage to redirect to 
+        "page": "https://link.brawlstars.com/invite/gameroom/de?tag=XEZHTHZG" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
